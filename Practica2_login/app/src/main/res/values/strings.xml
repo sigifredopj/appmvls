@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica2_login</string>
+    <string name="txtUser">usuario</string>
+    <string name="txtPass">contraseña</string>
+    <string name="txtSend">enviar</string>
+    <string name="txtWelcome">Bienvenido</string>
+</resources>
